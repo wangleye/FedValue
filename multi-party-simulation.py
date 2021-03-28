@@ -1,4 +1,4 @@
-# Fed valuation for two parties
+# Time computation of Fed valuation for multiple parties
 import random
 import numpy as np
 import time
